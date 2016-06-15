@@ -5,7 +5,7 @@ permalink: /contact/
 feature-img: "sample_feature_img.png"
 ---
 
-Thank You.
+
 
 <form action="https://getsimpleform.com/messages?form_api_token=d8455880610a26bc51bc2bdc0a5588fd" method="post">
   <input type='hidden' name='redirect_to' value='https://vanwykjd.github.io/thank-you/' />
