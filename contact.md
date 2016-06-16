@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-feature-img: "sample_feature_img.png"
+feature-img: "img/BottomFade.png"
 ---
 
 
@@ -14,3 +14,4 @@ feature-img: "sample_feature_img.png"
   <textarea name='message' placeholder='Write your message ...'></textarea>
   <input type='submit' value='Send Message' />
 </form>
+
