@@ -25,7 +25,7 @@ theme:
   dribbble: 
   facebook: "joshvanwyk"
   flickr:
-  github: "vanwykj"
+  github: "vanwykjd"
   google_plus:
   instagram: 
   linkedin:  
@@ -40,7 +40,7 @@ theme:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-79449619-1" 
   disqus_shortname:
   katex: true # Enable if using math markup
 
